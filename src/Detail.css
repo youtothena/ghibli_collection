@@ -1,0 +1,40 @@
+.detailBox {
+    width: 40%;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.box {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.detailBox h2 {
+    font-family: 'Cormorant Unicase', serif;
+    line-height: 36px;
+    padding-bottom: 15px;
+}
+.detailBox h4 {
+    font-size: 16px;
+    color: #222222;
+}
+.detailBox .romanised {
+    font-size: 12px;
+    padding-bottom: 15px;
+    color: #222222;
+}
+.detailBox .date {
+    padding-top: 12px;
+    letter-spacing: 8px;
+}
+.detailBox .score {
+    color: silver;
+    padding: 12px 0;
+}
+.detailBox .descrip {
+    color: #616161;
+    text-align: justify;
+    padding-top: 20px;
+}
