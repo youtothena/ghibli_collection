@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ghibli_collection/static/css/main.54615ecf.chunk.css",
-    "main.js": "/ghibli_collection/static/js/main.b84ede5c.chunk.js",
-    "main.js.map": "/ghibli_collection/static/js/main.b84ede5c.chunk.js.map",
+    "main.css": "/ghibli_collection/static/css/main.5d8d31f8.chunk.css",
+    "main.js": "/ghibli_collection/static/js/main.ee616ba5.chunk.js",
+    "main.js.map": "/ghibli_collection/static/js/main.ee616ba5.chunk.js.map",
     "runtime-main.js": "/ghibli_collection/static/js/runtime-main.6d3e661d.js",
     "runtime-main.js.map": "/ghibli_collection/static/js/runtime-main.6d3e661d.js.map",
-    "static/js/2.3f22e910.chunk.js": "/ghibli_collection/static/js/2.3f22e910.chunk.js",
-    "static/js/2.3f22e910.chunk.js.map": "/ghibli_collection/static/js/2.3f22e910.chunk.js.map",
+    "static/js/2.c027f152.chunk.js": "/ghibli_collection/static/js/2.c027f152.chunk.js",
+    "static/js/2.c027f152.chunk.js.map": "/ghibli_collection/static/js/2.c027f152.chunk.js.map",
     "index.html": "/ghibli_collection/index.html",
-    "static/css/main.54615ecf.chunk.css.map": "/ghibli_collection/static/css/main.54615ecf.chunk.css.map",
-    "static/js/2.3f22e910.chunk.js.LICENSE.txt": "/ghibli_collection/static/js/2.3f22e910.chunk.js.LICENSE.txt"
+    "static/css/main.5d8d31f8.chunk.css.map": "/ghibli_collection/static/css/main.5d8d31f8.chunk.css.map",
+    "static/js/2.c027f152.chunk.js.LICENSE.txt": "/ghibli_collection/static/js/2.c027f152.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d3e661d.js",
-    "static/js/2.3f22e910.chunk.js",
-    "static/css/main.54615ecf.chunk.css",
-    "static/js/main.b84ede5c.chunk.js"
+    "static/js/2.c027f152.chunk.js",
+    "static/css/main.5d8d31f8.chunk.css",
+    "static/js/main.ee616ba5.chunk.js"
   ]
 }
