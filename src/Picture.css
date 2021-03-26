@@ -12,12 +12,13 @@
     height: 100%;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .imageBox {
     margin-top: 30px;
     width: 300px;
+    padding: 0 20px;
     height: 500px;
     transform: rotateX(45deg) rotateZ(-25deg);
     transform-style: preserve-3d;
