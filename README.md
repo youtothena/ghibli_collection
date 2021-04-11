@@ -1,17 +1,19 @@
-# Project Title
+# 프로젝트 타이틀
 
-A purpose of this project is to utilize a way to use an RestAPI in react.
+리액트에서 API 연동을 습득하기 위한 지브리 영화 콜렉션
 
-## Information about project
+## 프로젝트 정보
 
-1. It is made by React
-2. First, you can see a main page and it is composed by dumy data I made.
-3. After, you can also click a button, 'read more', it provides you some informations about ghibli cinema. It is composed by API.
+1. 리액트를 사용했습니다.
+2. 첫 번째 페이지는 영화 포스터와 타이틀이 묶인 하드 코딩 데이터를 사용했습니다.
+3. 이후 화면 상단에 놓인 버튼을 클릭하면 영화 세부 정보가 담긴 카드들이 나타나며 각각의 영화 정보들을 확인하실 수 있습니다.
 
-### Contribute
+### 개선 방안
 
-You can add any other function
+1. 데이터를 다양하게 활용하는 방법
+2. 검색 기능 추가
+3. 더 좋은 API를 사용할 수 있게 될 경우, 기존 틀에서 다시 새롭게 구성
 
-#### Learn More
+#### 출처
 
 Copyright of API : (https://ghibliapi.herokuapp.com/films)
